@@ -1,0 +1,104 @@
+//= Цвета ==============================================================
+// Неизменные цвета
+$black: #111; //Чёрный
+$black-hover: #222; //Чёрный по наведению
+$black-active: #000; //Чёрный по нажатию
+
+$white: #e2e2e2; //Белый
+$white-hover: #fff; // Белый по наведению
+$white-active: #cccccc; // Белый по нажатию
+$pure-white: #fff; // Чистый белый
+
+//- Светлая тема оформления
+:root {
+	--black: #{$black};
+	--white: #{$white};
+	--black-hover: #{$black-hover};
+	--white-hover: #{$white-hover};
+	--pure-white: #{$pure-white};
+	--black-active: #{$black-active};
+	--white-active: #{$white-active};
+	--text: #333;
+	--paper: #f3f3f3;
+	--fogged: #7c7c7c;
+	--accent: #b93fff;
+	--accent-hover: #c266f7;
+	--accent-active: #a234e2;
+	--foreground: #fff;
+
+	--divider: #ccc;
+	--hover: #{rgba(#7c7c7c, 0.05)};
+	--input-bg: #{rgba(black, 0.1)};
+	--radiocheck-bg: #{rgba(black, 0.3)};
+	--border-color: #00000033;
+	--scrollbar-bg: #cecece;
+	--scrollbar-thumb: #333;
+	--outlined: #b93fff;
+	--button-text: #fff;
+	--links: #c052ff;
+	--links-hover: #eda3ff;
+	--chip-bg: #eee;
+	--chip-text: #333;
+	--chip-action-bg: #cecece;
+	--chip-action-text: #333;
+	--chip-action-bg-hover: #bbb;
+
+	@media (prefers-color-scheme: dark) {
+		&:not(.light) {
+			--text: #fff;
+			--paper: #1a1a1a;
+			--fogged: #575757;
+			--accent: #b93fff;
+			--accent-hover: #c266f7;
+			--accent-active: #a234e2;
+			--foreground: #333;
+			--success: #02d661;
+			--error: #ff2353;
+			--warning: #fda531;
+			--info: #329cff;
+			--divider: #888;
+			--hover: #{rgba(#ccc, 0.05)};
+			--scrollbar-bg: #222;
+			--scrollbar-thumb: #777;
+			--outlined: #b93fff;
+			--button-text: #fff;
+			--links: #c052ff;
+			--links-hover: #eda3ff;
+			--chip-bg: #444;
+			--chip-text: #fff;
+			--chip-action-bg: #555;
+			--chip-action-text: #fff;
+			--chip-action-bg-hover: #222;
+		}
+	}
+
+	@media print {
+		--text: #333;
+		--paper: #fff;
+		--foreground: #fff;
+		--links: #333;
+		--accent: #333;
+		--input-bg: #{rgba(black, 0.05)};
+		--outlined: #333;
+		--button-text: #fff;
+		--success: #333;
+		--error: #333;
+		--warning: #333;
+		--info: #333;
+
+		& code {
+			overflow: hidden;
+			box-shadow: none;
+			background-color: rgba(black, 0.05);
+		}
+
+		& a {
+			text-decoration: underline;
+		}
+
+		& .bttn,
+		& .chip-action {
+			text-decoration: none;
+		}
+	}
+}

@@ -1,0 +1,180 @@
+@use "../parts/vars/colors" as c;
+
+#partnership {
+	padding: 8vmax 0;
+
+	& .card-wrapper {
+		position: relative;
+
+		&:after {
+			position: absolute;
+			content: "";
+			display: block;
+			top: 0;
+			right: 0;
+			background-color: rgba(black, 0);
+			width: 8px;
+			aspect-ratio: 1 / 1;
+			border-radius: 50%;
+			outline: 1px solid rgba(#fff, 0.25);
+			outline-offset: 20vw;
+			z-index: -1;
+		}
+	}
+
+	& .partnership-card {
+		background-color: rgba(#fff, 0.13);
+		border-radius: clamp(12px, 2vw, 30px);
+		padding: clamp(6px, 3vw, 40px);
+		box-sizing: border-box;
+		backdrop-filter: blur(10px);
+
+		& h3 {
+			margin-top: 0;
+		}
+
+		& .tabs {
+			margin: 0;
+			list-style: none;
+			padding: 0;
+			display: flex;
+			gap: 6px;
+			flex-direction: column;
+
+			& .tab {
+				& a {
+					display: flex;
+
+					& span {
+						display: block;
+						flex-grow: 1;
+						height: 72px;
+						display: flex;
+						align-items: center;
+						background-color: rgba(black, 0.13);
+						color: #fff;
+					}
+
+					&:before {
+						content: "";
+						width: 20px;
+						background-image: url("/assets/img/tab-start.svg");
+						background-size: 100% 100%;
+					}
+
+					&:after {
+						content: "";
+						background-image: url("/assets/img/tab-end.svg");
+						background-size: 100% 100%;
+						width: 32px;
+					}
+				}
+
+				&.active {
+					& a {
+						&:before {
+							background-image: url('/assets/img/tab-start-active.svg');
+						}
+
+						&:after {
+							background-image: url('/assets/img/tab-end-active.svg');
+						}
+
+						& span {
+							background-color: c.$accent;
+						}
+					}
+				}
+
+				&:not(.active):hover {
+					& span {
+						background-color: rgba(#fff, 0.13);
+					}
+
+					& a:before {
+						background-image: url('/assets/img/tab-start-hover.svg');
+					}
+
+					& a:after {
+						background-image: url('/assets/img/tab-end-hover.svg');
+					}
+				}
+			}
+
+			@media (max-width: 1200px) {
+				flex-direction: row;
+				gap: 0;
+				border-radius: 12px;
+				overflow: hidden;
+				width: fit-content;
+				max-width: 100%;
+				overflow-x: auto;
+
+				&::-webkit-scrollbar {
+					height: 0;
+				}
+
+				& .tab {
+					& a {
+						display: block;
+						padding: 0 1em;
+						background-color: rgba(black, 0.13);
+						white-space: nowrap;
+
+						&:before,
+						&:after {
+							display: none;
+						}
+
+						& span {
+							height: 2em;
+							background-color: transparent !important;
+						}
+					}
+
+					&.active {
+						background-color: c.$accent;
+					}
+
+					&:not(.active):hover {
+						background-color: rgba(#fff, 0.13);
+					}
+				}
+			}
+
+			@media (max-width: 500px) {
+				flex-direction: column;
+				width: 100%;
+			}
+		}
+
+		& .tab-content,
+		& .tab-description {
+			display: none;
+
+			&.active {
+				display: block;
+			}
+
+			& li {
+				padding: 0.5em 0;
+				line-height: 1.4em;
+			}
+		}
+
+		& .description {
+			height: 100%;
+			border-left: 1px solid rgba(#fff, 0.25);
+			padding-left: 1em;
+
+			& .tab-description {
+				font-size: clamp(18px, 3vw, 24px);
+				margin: 0;
+			}
+		}
+
+		& h2 {
+			margin-top: 0;
+		}
+	}
+}

@@ -1,0 +1,68 @@
+<section id="partner-form">
+	<div class="container">
+		<form class="row" id="partner-register-form">
+			<div class="col l1 hide-l-down">
+				<img src="/img/dots.svg" class="dots" />
+			</div>
+			<div class="col l10 offset-l1">
+				<div class="row flex">
+					<div class="col">
+						<div class="form-header">
+							<h2>Регистрация <span id="registertype">партнёра</span></h2>
+							<input type="hidden" value="Партнёр" name="type" />
+							<input type="hidden" name="partner-type" value="general" />
+						</div>
+					</div>
+					<div class="col">
+						<div class="radio-group">
+							<div class="radio">
+								<input id="gen" checked type="radio" name="partner-type" value="Генеральный партнёр" /><label for="gen"
+									>Генеральный партнёр</label
+								>
+							</div>
+							<div class="radio">
+								<input id="strat" type="radio" name="partner-type" value="Стратегический партнёр" /><label for="strat"
+									>Стратегический партнёр</label
+								>
+							</div>
+							<div class="radio">
+								<input id="lead" type="radio" name="partner-type" value="Ведущий партнёр" /><label for="lead">Ведущий партнёр</label>
+							</div>
+							<div class="radio"><input id="reg" type="radio" name="partner-type" value="Партнёр" /><label for="reg">Партнёр</label></div>
+						</div>
+					</div>
+					<div class="col l4 m6 s12">
+						<div class="input-field"><label for="">Имя, фамилия</label><input type="text" name="name" /></div>
+					</div>
+					<div class="col l4 m6 s12">
+						<div class="input-field"><label for="">Компания</label><input type="text" name="company" /></div>
+					</div>
+					<div class="col l4 m12">
+						<div class="input-field"><label for="">Официальный сайт компании</label><input type="text" name="website" /></div>
+					</div>
+					<div class="col l4 m6 s12">
+						<div class="input-field"><label for="">Телефон</label><input type="text" name="phone" /></div>
+					</div>
+					<div class="col l4 m6 s12">
+						<div class="input-field"><label for="">Аккаунт в Телеграм</label><input type="text" name="telegram" /></div>
+					</div>
+					<div class="col l4 m12">
+						<div class="input-field">
+							<a href="#!" class="bttn register">Зарегистрироваться</a>
+						</div>
+					</div>
+					<div class="col">
+						<div class="check-field">
+							<input type="checkbox" id="partner-agreement" name="agreement" />
+							<label for="partner-agreement"
+								><span
+									>Я даю своё согласие на сбор и обработку персональных данных согласно <a href="policy.pdf">Политике конфиденциальности</a> и <a href="agreement.pdf">Пользовательскому соглашению</a>.</span
+								></label
+							>
+						</div>
+					</div>
+				</div>
+			</div>
+		</form>
+	</div>
+</section>

@@ -1,0 +1,622 @@
+[2025-07-17 16:36:19] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\cache\includes\elements\modx\revolution\modsnippet\1.include.cache.php : 183) PHP warning: count(): Parameter must be an array or an object that implements Countable
+[2025-07-17 16:36:19] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\cache\includes\elements\modx\revolution\modsnippet\1.include.cache.php : 197) PHP warning: count(): Parameter must be an array or an object that implements Countable
+[2025-07-17 16:36:30] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\cache\includes\elements\modx\revolution\modsnippet\1.include.cache.php : 183) PHP warning: count(): Parameter must be an array or an object that implements Countable
+[2025-07-17 16:36:30] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\cache\includes\elements\modx\revolution\modsnippet\1.include.cache.php : 197) PHP warning: count(): Parameter must be an array or an object that implements Countable
+[2025-07-17 16:37:10] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 16:37:10] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 16:37:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 16:37:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 16:37:15] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 16:37:15] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 16:37:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\cache\includes\elements\modx\revolution\modsnippet\1.include.cache.php : 183) PHP warning: count(): Parameter must be an array or an object that implements Countable
+[2025-07-17 16:37:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\cache\includes\elements\modx\revolution\modsnippet\1.include.cache.php : 197) PHP warning: count(): Parameter must be an array or an object that implements Countable
+[2025-07-17 16:39:32] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 16:39:32] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 16:39:33] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 16:39:33] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 17:00:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:00:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:00:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:00:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:00:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:00:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:00:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:02:57] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:02:57] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:02:57] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:02:57] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:02:57] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:02:57] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:02:57] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:04:04] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:04:04] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:04:04] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:04:04] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:04:04] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:55] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:55] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:55] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:55] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:08:55] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:09:26] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:09:26] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:09:26] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:09:26] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:09:26] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:09:26] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:09:26] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:10:42] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:10:42] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:10:42] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:10:42] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:10:42] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:10:42] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:10:42] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:13:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:13:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:13:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:13:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:13:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:13:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:13:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:13:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:13:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:13:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:13:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:13:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:14:13] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:14:13] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:14:13] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:14:13] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:14:13] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:15:32] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:15:32] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:15:32] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:15:32] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:15:32] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:15:46] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:15:46] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:15:46] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:15:46] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:15:46] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:16:09] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:16:09] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:16:09] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:16:09] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:16:09] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:17:39] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:17:39] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:17:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:17:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:17:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:18:03] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:18:03] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:18:03] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:18:03] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:18:03] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:20:23] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:20:23] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:20:23] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:20:23] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:20:23] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:31:46] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:31:46] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:31:46] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:31:46] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:31:46] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:31:48] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:31:48] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:31:48] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:31:48] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:31:48] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:31:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:31:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:31:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:31:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:31:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:32:06] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:32:06] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:32:06] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:32:06] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:32:06] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:32:33] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:32:33] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:32:33] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:32:33] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:32:33] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:32:33] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:32:33] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:33:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:33:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:33:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:33:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:33:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:34:08] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:34:08] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:34:08] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:34:08] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:34:08] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:34:10] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:34:10] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:34:10] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:34:10] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:34:10] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:35:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:35:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:35:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:35:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:35:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:35:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:35:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:35:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:35:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:35:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:06] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:06] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:06] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:06] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:06] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:45] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:45] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:45] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:45] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:45] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:47] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:47] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:47] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:47] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:36:47] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:37:13] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:37:13] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:37:13] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:37:13] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:37:13] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:37:13] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:37:13] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:37:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:37:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:37:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:37:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:37:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:38:28] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:38:28] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:38:29] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:38:29] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:38:29] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:38:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:38:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:38:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:38:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:38:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:38:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:38:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:38:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:38:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:38:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:40:17] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:40:17] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:40:17] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:40:17] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:40:17] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:40:17] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:40:17] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:41:56] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:41:56] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:41:56] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:41:56] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:41:56] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:41:56] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:41:56] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:44:17] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:44:17] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:44:17] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:44:17] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:44:17] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:44:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:44:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:44:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:44:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:44:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:44:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:44:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:45:30] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:45:30] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:45:30] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:45:30] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:45:30] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:45:30] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:45:30] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:48:55] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 17:48:55] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 17:48:56] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 17:48:57] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 17:48:59] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 17:48:59] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 17:49:33] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 17:49:33] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 17:49:33] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1055
+    [2] => Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'smart-social.migxConfig.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+)
+
+[2025-07-17 17:52:00] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:52:00] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:52:00] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:52:00] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:52:00] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:52:00] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:52:00] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:52:35] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:52:35] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:52:35] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:52:35] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:52:35] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:52:35] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:52:35] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:53:16] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:53:16] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:53:16] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:53:16] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:53:16] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:53:18] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:53:18] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:53:19] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:53:19] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:53:19] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:53:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:53:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:53:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:53:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:53:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:56:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:56:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:56:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:56:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:56:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:56:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:56:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:58:42] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:58:42] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:58:42] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:58:42] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:58:42] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:58:42] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:58:42] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:59:41] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:59:41] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:59:41] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:59:41] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:59:41] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:59:41] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 17:59:41] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:25] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:25] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:25] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:25] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:25] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:25] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:25] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:27] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:27] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:27] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:27] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:27] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:29] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:29] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:29] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:29] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:01:29] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:02:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:02:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:02:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:02:40] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:02:41] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:02:41] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:02:41] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:03:08] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:03:08] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:03:08] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:03:08] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:03:08] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:03:08] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:03:08] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:03:22] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:03:22] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:03:22] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:03:22] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:03:22] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:03:22] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:03:22] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:05:57] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:05:57] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:05:57] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:05:57] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:05:57] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:05:57] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:05:57] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:06:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:06:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:06:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:06:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:06:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:06:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:06:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:07:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:07:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:07:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:07:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:07:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:07:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:07:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:10:14] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:10:14] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:10:14] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:10:14] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:10:14] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:10:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:10:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:10:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:10:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:10:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:11:30] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:11:30] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:11:30] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:11:30] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:11:30] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:11:50] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:11:50] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:11:50] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:11:50] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:11:50] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:12:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:12:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:12:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:12:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:12:12] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:12:20] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:12:20] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:12:20] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:12:20] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:12:20] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:13:20] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:13:20] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:13:20] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:13:20] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:13:20] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:14:15] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:14:15] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:14:15] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:14:15] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:14:15] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:15:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:15:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:15:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:15:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:15:38] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:17:04] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:17:04] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:17:04] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:17:04] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:17:04] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:19:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:19:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:19:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:19:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:19:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:19:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:19:49] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:20:10] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:20:10] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:20:10] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:20:10] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:20:10] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:20:10] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:20:10] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:21:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:21:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:21:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:21:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:21:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:21:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:21:11] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:21:59] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:21:59] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:21:59] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:21:59] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:21:59] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:21:59] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:21:59] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:23:56] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:23:56] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:23:56] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:23:56] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:23:56] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:24:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:24:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:24:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:24:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:24:43] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:24:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:24:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:24:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:24:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:24:54] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:25:18] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:25:18] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:25:18] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:25:18] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:25:18] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:25:26] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:25:26] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:25:26] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:25:26] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:25:26] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:26:15] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:26:15] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:26:15] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:26:15] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:26:15] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:26:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:26:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:26:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:26:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:26:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:26:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.
+[2025-07-17 18:26:37] (ERROR @ D:\Projects\Hosts\smart-social-modx.local\release\core\src\Revolution\modParser.php : 512) Could not find snippet with name header.

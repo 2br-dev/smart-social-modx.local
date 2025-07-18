@@ -1,0 +1,39 @@
+@use "./vars/typography" as t;
+@import url("https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css");
+
+@font-face {
+	font-family: "PT Root UI";
+	src: url("../fonts/PT-Root-UI_Regular.ttf") format("truetype");
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "PT Root UI";
+	src: url("../fonts/PT-Root-UI_Bold.ttf") format("truetype");
+	font-weight: bold;
+}
+
+body {
+	font-family: "PT Root UI", sans-serif;
+	font-size: t.$font-size;
+
+	& .big {
+		font-size: t.$font-size-large;
+		line-height: 1.6em;
+	}
+
+	& h1 {
+		font-size: clamp(46px, 12vw, 100px);
+		line-height: 1.2em;
+	}
+
+	& h2 {
+		font-size: clamp(26px, 4.5vw, 72px);
+		font-weight: normal;
+	}
+
+	& h3 {
+		font-size: clamp(20px, 2.5vw, 46px);
+		font-weight: normal;
+	}
+}

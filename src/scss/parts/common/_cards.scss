@@ -1,0 +1,14 @@
+@use '../vars/round' as r;
+@use './shadows';
+
+.card {
+	background-color: var(--background0);
+	border-radius: r.$border-radius;
+	margin-bottom: 1em;
+
+	@extend .z-depth-2;
+
+	& .card-content {
+		padding: clamp(5px, 3vw, 20px);
+	}
+}

@@ -1,0 +1,80 @@
+#invitation {
+	position: relative;
+	border-top: 1px solid rgba(#fff, 0.25);
+
+	&:before {
+		@media (min-width: 850px) {
+			content: "";
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 40%;
+			height: 100%;
+			background-image: url(/assets/img/invitation.webp);
+			background-size: cover;
+		}
+	}
+
+	& hgroup {
+		border-top: 1px solid rgba(#fff, 0.25);
+		display: flex;
+		position: relative;
+
+		& .icon {
+			content: "";
+			display: block;
+			border-right: 1px solid rgba(#fff, 0.25);
+
+			width: 6vw;
+			flex-shrink: 0;
+			background-repeat: no-repeat;
+			background-position: top clamp(13px, 2.25vw, 30px) left 0;
+			background-size: 65% auto;
+			min-width: 60px;
+		}
+
+		&:last-of-type {
+			border-bottom: 1px solid rgba(#fff, 0.25);
+		}
+
+		& h3 {
+			margin: 0.5em 0;
+			padding-left: 0.5em;
+
+			&:after {
+				display: none;
+			}
+
+			&:before {
+				content: "";
+				display: block;
+				position: absolute;
+				width: 10px;
+				aspect-ratio: 1 / 1;
+				background-image: url("/assets/img/cross.svg");
+				top: 0;
+				left: max(6vw, 60px);
+				transform: translate(-50%, -50%);
+			}
+
+			& small {
+				display: block;
+				font-size: clamp(16px, 3vw, 20px);
+				line-height: 1.6em;
+			}
+		}
+
+		&:last-of-type h3:after {
+			content: "";
+			display: block;
+			position: absolute;
+			width: 10px;
+			aspect-ratio: 1 / 1;
+			background-image: url("/assets/img/cross.svg");
+			bottom: 0;
+			left: max(6vw, 60px);
+			transform: translate(-50%, 50%);
+		}
+	}
+}

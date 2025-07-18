@@ -1,0 +1,93 @@
+@use "../parts/vars/colors" as v;
+
+#about {
+	position: relative;
+	border-bottom: 1px solid rgba(#fff, 0.25);
+
+	& .container {
+		& > .row {
+			& .row {
+				position: relative;
+
+				& .cross-bottom {
+					width: 10px;
+					aspect-ratio: 1 / 1;
+					position: absolute;
+					bottom: min(-10px, -2vw);
+					left: 0;
+					transform: translate(-50%, calc(4vmax + 50%));
+					background-image: url(/img/cross.svg);
+					border-radius: 50%;
+					outline: 1px solid rgba(#fff, 0.25);
+					outline-offset: 20vw;
+
+					@media (max-width: 850px) {
+						display: none;
+					}
+				}
+
+				&:before {
+					border-left: 1px solid rgba(#fff, 0.25);
+					content: "";
+					display: block;
+					position: absolute;
+					height: calc(100% - 8vw);
+					width: 0;
+					transform: translateY(calc(4vmax + 10vw));
+
+					@media (max-width: 850px) {
+						display: none;
+					}
+				}
+			}
+		}
+	}
+
+	&:before {
+		content: "";
+		display: block;
+		height: 160%;
+		aspect-ratio: 1 / 2;
+		position: absolute;
+		right: 0;
+		top: 50%;
+		transform: translatey(-50%);
+		border-radius: 50%;
+		background-image: radial-gradient(ellipse at center, v.$accent, v.$paper 80%);
+		filter: blur(6vw);
+		opacity: 0.2;
+
+		@media (max-width: 850px) {
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			width: 100%;
+			aspect-ratio: 1 / 2;
+		}
+	}
+
+	& .point {
+		padding-left: 3rem;
+		position: relative;
+
+		&:before {
+			content: "";
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 9px;
+			height: 80px;
+			background-color: v.$accent;
+		}
+
+		& h3 {
+			margin: 0.25em 0;
+		}
+
+		& p {
+			line-height: 1.6em;
+			opacity: 0.75;
+		}
+	}
+}

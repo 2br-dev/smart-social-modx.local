@@ -1,0 +1,35 @@
+@use "sass:color";
+
+$accent: #018ffe;
+$paper: #00070d;
+
+:root {
+	// Основные цвета
+	--success: #02d661;
+	--error: #ff2353;
+	--warning: #fda531;
+	--info: #329cff;
+	--accent: #{$accent};
+	--paper: #{$paper};
+
+	// Кнопки
+	--button-text: #fff;
+	--links: #{$accent};
+	--outlined: #{$accent};
+
+	// Фон
+	// Генерация палитры полутонов от белого
+	@for $i from 0 to 20 {
+		$percent: #{$i * 3 + 0%};
+		$c: color.adjust(#fff, $lightness: -$i * 5%);
+		--background#{$i}: #{$c};
+	}
+
+	// Заливка
+	// Генерация палитры полутонов от чёрного
+	@for $i from 0 to 20 {
+		$percent: #{$i * 3 + 0%};
+		$c: color.adjust(#000, $lightness: $i * 5%);
+		--foreground#{$i}: #{$c};
+	}
+}

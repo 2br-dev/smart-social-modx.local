@@ -1,0 +1,70 @@
+@use "../parts/vars/colors" as c;
+
+#partners {
+	padding: 2vmax 0;
+	position: relative;
+	z-index: 2;
+
+	&:before {
+		content: "";
+		display: block;
+		height: 300%;
+		aspect-ratio: 1 / 1.5;
+		border-radius: 50%;
+		position: absolute;
+		top: 50%;
+		left: 0;
+		transform: translatey(-50%);
+		z-index: -1;
+		background-image: radial-gradient(ellipse at center, c.$accent, c.$paper 80%);
+		opacity: 0.2;
+		filter: blur(6vw);
+		z-index: -1;
+		pointer-events: none;
+	}
+
+	& h2 {
+		text-align: center;
+	}
+
+	& .partners-wrapper {
+		display: flex;
+		list-style: none;
+		padding: 0;
+		gap: 10px;
+		flex-wrap: wrap;
+		justify-content: center;
+
+		& li {
+			width: calc(20% - 10px);
+			flex-grow: 1;
+
+			@media (max-width: 1200px) {
+				width: calc(33.3333% - 10px);
+				flex-grow: 0;
+			}
+
+			@media (max-width: 600px) {
+				width: calc(50% - 10px);
+			}
+
+			& a {
+				width: 100%;
+				background-color: #bfbfbf;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				border-radius: clamp(12px, 2vw, 20px);
+
+				& img {
+					width: 100%;
+					height: auto;
+				}
+
+				&:hover {
+					background-color: #fff;
+				}
+			}
+		}
+	}
+}

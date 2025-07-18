@@ -1,0 +1,63 @@
+#discuss {
+	counter-reset: "discuss";
+
+	& .margin-bottom {
+		counter-increment: discuss;
+	}
+
+	& hgroup {
+		height: 100%;
+		min-height: min(40vmin, 300px);
+		padding: clamp(12px, 3vw, 24px);
+		box-sizing: border-box;
+		background-color: rgba(#fff, 0.13);
+		border-radius: clamp(10px, 2vw, 20px);
+		border-left: 3px solid;
+		position: relative;
+
+		&:before {
+			content: "0" counter(discuss);
+			position: absolute;
+			top: 0;
+			left: 0.2em;
+			font-size: clamp(80px, 20vw, 160px);
+			z-index: -1;
+			pointer-events: none;
+			color: rgba(#fff, 0.1);
+		}
+
+		& h3 {
+			margin-top: 0;
+		}
+
+		& p {
+			opacity: 0.75;
+		}
+	}
+
+	& .col {
+		&:nth-child(2) hgroup {
+			border-color: #018ffe;
+		}
+
+		&:nth-child(3) hgroup {
+			border-color: #00ccff;
+		}
+
+		&:nth-child(4) hgroup {
+			border-color: #8c00ed;
+		}
+
+		&:nth-child(5) hgroup {
+			border-color: #00ff8c;
+		}
+
+		&:nth-child(6) hgroup {
+			border-color: #2600ff;
+		}
+
+		&:nth-child(7) hgroup {
+			border-color: #ff00bf;
+		}
+	}
+}

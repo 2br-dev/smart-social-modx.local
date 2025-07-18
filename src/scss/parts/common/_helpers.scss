@@ -1,0 +1,177 @@
+@use '../vars/media' as m;
+@use '../vars/grid' as g;
+@use 'sass:math';
+@use 'sass:string';
+@use 'sass:list';
+
+.screen {
+	@media print {
+		display: none;
+	}
+}
+
+.print {
+	@media screen {
+		display: none;
+	}
+}
+
+@mixin left($class, $min, $max) {
+	.hide-#{$class}-down {
+		@media (max-width: $min) {
+			text-align: left;
+		}
+	}
+	.hide-#{$class}-up {
+		@media (min-width: $min) {
+			text-align: left;
+		}
+	}
+	.hide-#{$class}-only {
+		@media (min-width: $min) and (max-width: $max) {
+			text-align: left;
+		}
+	}
+}
+
+@mixin center($class, $min, $max) {
+	.hide-#{$class}-down {
+		@media (max-width: $min) {
+			text-align: center;
+		}
+	}
+	.hide-#{$class}-up {
+		@media (min-width: $min) {
+			text-align: center;
+		}
+	}
+	.hide-#{$class}-only {
+		@media (min-width: $min) and (max-width: $max) {
+			text-align: center;
+		}
+	}
+}
+
+@mixin right($class, $min, $max) {
+	.hide-#{$class}-down {
+		@media (max-width: $min) {
+			text-align: right;
+		}
+	}
+	.hide-#{$class}-up {
+		@media (min-width: $min) {
+			text-align: right;
+		}
+	}
+	.hide-#{$class}-only {
+		@media (min-width: $min) and (max-width: $max) {
+			text-align: right;
+		}
+	}
+}
+
+@mixin align($direction, $class, $min, $max) {
+	.align-#{$direction}-#{$class}-down {
+		@media (max-width: $min) {
+			text-align: #{$direction};
+		}
+	}
+	.align-#{$direction}-#{$class}-up {
+		@media (min-width: $min) {
+			text-align: #{$direction};
+		}
+	}
+	.align-#{$direction}-#{$class}-only {
+		@media (min-width: $min) and (max-width: $max) {
+			text-align: #{$direction};
+		}
+	}
+}
+
+// Выравнивание
+$alignClasses: (s, m, l, xl);
+$alignDLimit: (m.$small, m.$medium, m.$large, m.$extra-large);
+$alignULimit: (m.$medium, m.$large, m.$extra-large, m.$huge);
+
+@for $i from 1 through list.length($alignClasses) {
+	@include align(left, list.nth($alignClasses, $i), list.nth($alignDLimit, $i), list.nth($alignULimit, $i));
+	@include align(center, list.nth($alignClasses, $i), list.nth($alignDLimit, $i), list.nth($alignULimit, $i));
+	@include align(right, list.nth($alignClasses, $i), list.nth($alignDLimit, $i), list.nth($alignULimit, $i));
+	@include align(justify, list.nth($alignClasses, $i), list.nth($alignDLimit, $i), list.nth($alignULimit, $i));
+}
+
+.align-left {
+	text-align: left;
+}
+
+.align-center {
+	text-align: center;
+}
+
+.align-right {
+	text-align: right;
+}
+
+.align-justify {
+	text-align: justify;
+}
+
+@mixin hide($class, $min, $max) {
+	.hide-#{$class}-down {
+		@media (max-width: $min) {
+			display: none !important;
+		}
+	}
+	.hide-#{$class}-up {
+		@media (min-width: $min) {
+			display: none !important;
+		}
+	}
+	.hide-#{$class}-only {
+		@media (min-width: $min) and (max-width: $max) {
+			display: none !important;
+		}
+	}
+}
+
+// Скрытие
+@include hide(s, m.$small, m.$medium);
+@include hide(m, m.$medium, m.$large);
+@include hide(l, m.$large, m.$extra-large);
+@include hide(xl, m.$extra-large, m.$huge);
+.hide-h {
+	@media (min-width: m.$huge) {
+		display: none;
+	}
+}
+
+@mixin order($position, $class, $screenWidth) {
+	.order#{$position}-#{$class}-down {
+		@media (max-width: $screenWidth) {
+			order: $position;
+		}
+	}
+	.order#{$position}-#{$class}-up {
+		@media (min-width: $screenWidth) {
+			order: $position;
+		}
+	}
+}
+
+// Порядок во Flex-box'е
+$medias: (m.$extra-small, m.$small, m.$medium, m.$large, m.$extra-large);
+$classes: ('xs', 's', 'm', 'l', 'xl');
+
+@for $i from 1 to list.length($medias) {
+	@for $z from 1 to list.length($classes) {
+		@for $x from 0 to g.$cols {
+			@include order($x, list.nth($classes, $z), list.nth($medias, $i));
+		}
+	}
+}
+
+// Закреплённые элементы
+.pin {
+	position: sticky;
+	top: 100px;
+}

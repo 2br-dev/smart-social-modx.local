@@ -1,0 +1,82 @@
+@use "../parts/vars/colors" as c;
+
+header {
+	margin-top: clamp(0px, 3vw, 56px);
+	position: sticky;
+	top: 0;
+	z-index: 10;
+
+	@media(max-width: 600px){
+		backdrop-filter: blur(12px);
+		-webkit-backdrop-filter: blur(12px);
+	}
+
+	&:after {
+		content: "";
+		display: block;
+		width: 80%;
+		margin-left: auto;
+		border-bottom: 1px solid rgba(#fff, 0.25);
+	}
+
+	& .row {
+		& .col {
+			margin-bottom: 0;
+		}
+	}
+
+	& .logo {
+		padding: 6px 0;
+		display: flex;
+		align-items: center;
+
+		& img {
+			max-width: clamp(200px, 23vw, 450px);
+		}
+	}
+
+	& nav {
+		display: flex;
+		justify-content: space-between;
+		// height: 67px;
+		align-items: center;
+
+		& ul {
+			margin: 0;
+			list-style: none;
+			padding: 0;
+			display: flex;
+
+			& li {
+				display: block;
+
+				& a {
+					display: flex;
+					align-items: center;
+					justify-content: center;
+					height: 100%;
+					width: 100%;
+					padding: 1em 0.75em;
+					box-sizing: border-box;
+					border-top: 3px solid transparent;
+					color: #fff;
+					transition: border-color 0.2s;
+
+					&.active {
+						border-top: 3px solid var(--links);
+					}
+				}
+			}
+		}
+	}
+
+	& .burger-wrapper {
+		margin: 6px 0;
+		height: calc(100% - 12px);
+		aspect-ratio: 1 / 1;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: clamp(20px, 4vw, 26px);
+	}
+}

@@ -1,0 +1,33 @@
+@use "./hero";
+@use "./about";
+@use "./purpose";
+@use "./includes";
+@use "./discuss";
+@use "./invitation";
+@use "./form";
+@use "./partnership";
+@use "./partners";
+@use "./almanac";
+
+html{
+	
+	@media(max-width: 600px){
+		section{
+
+			&:before{
+				display: none;
+			}
+		}
+	}
+}
+
+body {
+	background-color: #00070d;
+	color: #fff;
+	max-width: 100%;
+	overflow-x: hidden;
+
+	& .container {
+		position: relative;
+	}
+}

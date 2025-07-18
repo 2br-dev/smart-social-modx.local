@@ -1,0 +1,70 @@
+@use "../parts/vars/colors" as c;
+
+#almanac {
+	position: relative;
+	z-index: 1;
+
+	&:before {
+		content: "";
+		display: block;
+		position: absolute;
+		inset: 0;
+		z-index: -1;
+		background-image: url(/img/almanac.webp);
+		background-size: 40% auto;
+		background-repeat: no-repeat;
+		background-position: right center;
+
+		@media (max-width: 1200px) {
+			background-size: 50% auto;
+		}
+
+		@media (max-width: 850px) {
+			background-size: 100% auto;
+			opacity: 0.5;
+		}
+	}
+
+	&:after {
+		content: "";
+		display: block;
+		position: absolute;
+		width: 40%;
+		aspect-ratio: 1 / 1;
+		top: 50%;
+		right: 0;
+		transform: translateY(-50%);
+		border-radius: 50%;
+		z-index: -1;
+		background-image: radial-gradient(circle at center, c.$accent, rgba(c.$accent, 0) 75%);
+		filter: blur(6vw);
+		opacity: 0.5;
+
+		@media (max-width: 1200px) {
+			width: 50%;
+		}
+
+		@media (max-width: 850px) {
+			width: 100%;
+			opacity: 0.2;
+		}
+	}
+
+	& h2 {
+		margin: 0;
+	}
+
+	& p,
+	& .bttn {
+		margin: 1em 0;
+		display: inline-block;
+	}
+
+	& .bttn {
+		background-color: c.$accent;
+		line-height: 3em;
+		color: #fff;
+		padding: 0 2em;
+		border-radius: clamp(6px, 2vw, 12px);
+	}
+}
