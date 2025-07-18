@@ -2,12 +2,13 @@ const { webpack, ProvidePlugin } = require("webpack");
 const path = require("path");
 
 module.exports = {
-	devtool: "inline-source-map",
+	// devtool: "inline-source-map",
 	output: {
 		path: path.resolve(__dirname, "src"),
 		filename: "master.js",
 	},
-	mode: "development",
+	// mode: "development",
+	mode: "production",
 	resolve: {
 		extensions: [".ts", ".tsx", ".js"],
 	},
